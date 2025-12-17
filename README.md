@@ -1,5 +1,5 @@
 # Determination of Profiles between the Autism Disorder and ADHD Disorder for Diagnostic Support using Large Language Models
-#### Read the full [paper]([URL_del_PDF](https://github.com/mhernandezlordui/Final-Project-LLM/blob/main/final_project_LLM.pdf)
+#### Read the full [paper](https://github.com/mhernandezlordui/Final-Project-LLM/blob/main/final_project_LLM.pdf)
 
 # General Objective
 To develop a Clinical Natural Language Processing (NLP) system specialized in the psychiatric domain to identify symptoms and perform differential diagnoses for Autism Spectrum Disorder (ASD) and Attention-Deficit/Hyperactivity Disorder (ADHD) based on clinical narratives.
